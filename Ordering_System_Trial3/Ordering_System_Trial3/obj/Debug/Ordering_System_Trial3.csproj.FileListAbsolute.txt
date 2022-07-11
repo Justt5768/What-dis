@@ -1,0 +1,12 @@
+C:\Users\Justt\source\repos\Ordering_System_Trial3\Ordering_System_Trial3\bin\Debug\Ordering_System_Trial3.exe.config
+C:\Users\Justt\source\repos\Ordering_System_Trial3\Ordering_System_Trial3\bin\Debug\Ordering_System_Trial3.exe
+C:\Users\Justt\source\repos\Ordering_System_Trial3\Ordering_System_Trial3\bin\Debug\Ordering_System_Trial3.pdb
+C:\Users\Justt\source\repos\Ordering_System_Trial3\Ordering_System_Trial3\obj\Debug\Ordering_System_Trial3.csproj.AssemblyReference.cache
+C:\Users\Justt\source\repos\Ordering_System_Trial3\Ordering_System_Trial3\obj\Debug\Ordering_System_Trial3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Justt\source\repos\Ordering_System_Trial3\Ordering_System_Trial3\obj\Debug\Ordering_System_Trial3.Form1.resources
+C:\Users\Justt\source\repos\Ordering_System_Trial3\Ordering_System_Trial3\obj\Debug\Ordering_System_Trial3.From_Items.resources
+C:\Users\Justt\source\repos\Ordering_System_Trial3\Ordering_System_Trial3\obj\Debug\Ordering_System_Trial3.Properties.Resources.resources
+C:\Users\Justt\source\repos\Ordering_System_Trial3\Ordering_System_Trial3\obj\Debug\Ordering_System_Trial3.csproj.GenerateResource.cache
+C:\Users\Justt\source\repos\Ordering_System_Trial3\Ordering_System_Trial3\obj\Debug\Ordering_System_Trial3.csproj.CoreCompileInputs.cache
+C:\Users\Justt\source\repos\Ordering_System_Trial3\Ordering_System_Trial3\obj\Debug\Ordering_System_Trial3.exe
+C:\Users\Justt\source\repos\Ordering_System_Trial3\Ordering_System_Trial3\obj\Debug\Ordering_System_Trial3.pdb
