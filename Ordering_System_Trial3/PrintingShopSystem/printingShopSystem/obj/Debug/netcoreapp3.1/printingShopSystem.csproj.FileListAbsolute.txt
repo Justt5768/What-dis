@@ -1,0 +1,17 @@
+C:\Users\SAMSUNG\Desktop\PrintingShopSystem\printingShopSystem\bin\Debug\netcoreapp3.1\printingShopSystem.exe
+C:\Users\SAMSUNG\Desktop\PrintingShopSystem\printingShopSystem\bin\Debug\netcoreapp3.1\printingShopSystem.deps.json
+C:\Users\SAMSUNG\Desktop\PrintingShopSystem\printingShopSystem\bin\Debug\netcoreapp3.1\printingShopSystem.runtimeconfig.json
+C:\Users\SAMSUNG\Desktop\PrintingShopSystem\printingShopSystem\bin\Debug\netcoreapp3.1\printingShopSystem.runtimeconfig.dev.json
+C:\Users\SAMSUNG\Desktop\PrintingShopSystem\printingShopSystem\bin\Debug\netcoreapp3.1\printingShopSystem.dll
+C:\Users\SAMSUNG\Desktop\PrintingShopSystem\printingShopSystem\bin\Debug\netcoreapp3.1\printingShopSystem.pdb
+C:\Users\SAMSUNG\Desktop\PrintingShopSystem\printingShopSystem\obj\Debug\netcoreapp3.1\printingShopSystem.csprojAssemblyReference.cache
+C:\Users\SAMSUNG\Desktop\PrintingShopSystem\printingShopSystem\obj\Debug\netcoreapp3.1\printingShopSystem.csproj.GenerateResource.cache
+C:\Users\SAMSUNG\Desktop\PrintingShopSystem\printingShopSystem\obj\Debug\netcoreapp3.1\printingShopSystem.AssemblyInfoInputs.cache
+C:\Users\SAMSUNG\Desktop\PrintingShopSystem\printingShopSystem\obj\Debug\netcoreapp3.1\printingShopSystem.AssemblyInfo.cs
+C:\Users\SAMSUNG\Desktop\PrintingShopSystem\printingShopSystem\obj\Debug\netcoreapp3.1\printingShopSystem.csproj.CoreCompileInputs.cache
+C:\Users\SAMSUNG\Desktop\PrintingShopSystem\printingShopSystem\obj\Debug\netcoreapp3.1\printingShopSystem.dll
+C:\Users\SAMSUNG\Desktop\PrintingShopSystem\printingShopSystem\obj\Debug\netcoreapp3.1\printingShopSystem.pdb
+C:\Users\SAMSUNG\Desktop\PrintingShopSystem\printingShopSystem\obj\Debug\netcoreapp3.1\printingShopSystem.genruntimeconfig.cache
+C:\Users\SAMSUNG\Desktop\PrintingShopSystem\printingShopSystem\obj\Debug\netcoreapp3.1\printingShopSystem.Properties.Resources.resources
+C:\Users\SAMSUNG\Desktop\PrintingShopSystem\printingShopSystem\obj\Debug\netcoreapp3.1\printingShopSystem.form_homePage.resources
+C:\Users\SAMSUNG\Desktop\PrintingShopSystem\printingShopSystem\obj\Debug\netcoreapp3.1\printingShopSystem.form_productsPage.resources
